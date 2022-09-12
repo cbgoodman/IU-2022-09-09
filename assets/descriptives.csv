@@ -1,0 +1,27 @@
+﻿var,mean,stdev
+Exit rate,0.058,0.120
+"Exit rate, high asset specificity",0.036,0.115
+"Exit rate, low asset specificity",0.012,0.081
+"Exit rate, fire districts",0.008,0.070
+"Exit rate, housing & community development districts",0.018,0.114
+"Exit rate, natural resource districts",0.012,0.082
+"Exit rate, water districts",0.018,0.107
+Municipal TEL,0.562,0.496
+County TEL,0.577,0.494
+Municipal debt limit,0.873,0.333
+County debt limit,0.808,0.394
+Municipal functional home rule,0.741,0.438
+County functional home rule,0.443,0.497
+"Location quotient, NAICS 236",1.049,0.973
+"Location quotient, NAICS 237",1.168,1.528
+"Location quotient, NAICS 238",0.797,0.639
+"Location quotient, NAICS 531",0.591,0.975
+"Personal income, per capita",23.632,8.196
+Population (1000s),83.928,292.188
+Population growth,0.693,1.648
+Population density,173.606,884.722
+"Jobs, per capita",0.354,0.137
+Age Index,0.430,0.031
+Race Index,0.124,0.146
+Use of towns (Yes=1),0.317,0.465
+Chg. In cities,0.040,0.379

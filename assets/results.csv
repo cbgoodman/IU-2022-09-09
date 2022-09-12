@@ -1,0 +1,20 @@
+﻿var,coeff,se,type,group,sample
+Municipal TEL,-0.0491**,(0.0111),All,autonomy,All County Sample
+County TEL,0.0121,(0.0094),All,autonomy,All County Sample
+Municipal debt limit,-0.0183,(0.0249),All,autonomy,All County Sample
+County debt limit,0.0156,(0.0158),All,autonomy,All County Sample
+Municipal functional home rule,0.0461**,(0.0136),All,autonomy,All County Sample
+County functional home rule,0.0174,(0.0117),All,autonomy,All County Sample
+"Location quotient, NAICS 236",0.0022,(0.0017),All,entrepreneurs,All County Sample
+"Location quotient, NAICS 237",-0.0004,(0.0006),All,entrepreneurs,All County Sample
+"Location quotient, NAICS 238",0.0007,(0.0023),All,entrepreneurs,All County Sample
+"Location quotient, NAICS 531",-0.0001,(0.0007),All,entrepreneurs,All County Sample
+"Personal income, per capita",0.0003,(0.0006),All,demand,All County Sample
+Population (1000s),0.0000,(0.0000),All,demand,All County Sample
+Population Growth,-0.0008,(0.0013),All,demand,All County Sample
+Population density,0.0000,(0.0000),All,demand,All County Sample
+"Jobs, per capita",-0.0478*,(0.0192),All,demand,All County Sample
+Age Index,0.1221,(0.1865),All,demand,All County Sample
+Race Index,0.0351,(0.0492),All,demand,All County Sample
+Chg. In cities,0.0046+,(0.0027),All,demand,All County Sample
+Use of towns (Yes=1),0.0035,(0.0181),All,demand,All County Sample

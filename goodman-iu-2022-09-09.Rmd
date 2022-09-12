@@ -479,12 +479,6 @@ class: segue
 
 ## Special District Functions & Asset Specificity Assignment
 
-```{r include = FALSE}
-xaringan::decktape(
-  "goodman-iu-2020-09-09.html",
-  "goodman-iu-2022-09-09.pdf",
-  docker = FALSE)
-```
 .pull-left[.font70[
 **High Asset Specificity**
 .pull-left[
